@@ -8,6 +8,8 @@
 
 typedef struct StackImplementation* Stack;
 
+typedef struct SNodeImplementation* S_Node;
+
 /**
  * Used to create a stack structure.
  * @return The newly created stack.
